@@ -1,3 +1,6 @@
+## Ver1.0, by S. S. Arslan, M. Fux, P. Sinha, 2024.
+## Please see the reference paper for the description of parameters: https://www.biorxiv.org/content/10.1101/2023.08.03.551725v1
+
 import numpy as np
 from tensorflow.keras.datasets import cifar10
 from tensorflow.keras.models import Sequential
